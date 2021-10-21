@@ -67,4 +67,4 @@ Pokemon.propTypes = {//Objeto de validação
     types: PropTypes.arrayOf(PropTypes.string)
 }
 
-export default Pokemon
+export default Pokemon 
